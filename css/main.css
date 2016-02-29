@@ -1,0 +1,24 @@
+html {
+  box-sizing: border-box;
+  background-color: grey;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+section img {
+  margin: 1em;
+  padding: 1em;
+  display: inline-block;
+  width: 100%;
+  max-width: none;
+}
+
+div {
+  margin: 1em;
+  padding: 1em;
+  display: inline-block;
+  max-width:
+}
